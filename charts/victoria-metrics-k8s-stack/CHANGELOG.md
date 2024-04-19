@@ -2,7 +2,7 @@
 
 ## Next release
 
-- TODO
+- Sync latest victoriametrics CustomResourceDefinitions.
 
 ## 0.20.1
 
